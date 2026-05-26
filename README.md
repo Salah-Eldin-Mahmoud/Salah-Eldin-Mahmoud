@@ -17,7 +17,7 @@ Through my studies, I developed a clear understanding of how data and informatio
 ⚡ Big Data Analytics: working with large-scale data concepts and processing approaches
 📉 Data Visualization: presenting insights in clear and impactful ways
 
-# 🎯 Professional Mindset
+## 🎯 Professional Mindset
 
 I am passionate about using data as a tool for improvement and growth. My focus is on transforming complex datasets into simple, actionable insights that help organizations optimize performance, solve problems, and make better strategic decisions. I am continuously developing my skills in Data Analysis and Data Science to deliver real business value through data.
 
