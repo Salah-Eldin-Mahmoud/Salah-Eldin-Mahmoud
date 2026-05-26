@@ -9,7 +9,7 @@ I’m Salah El-Din Mahmoud, a data-focused professional passionate about transfo
 Through my studies, I developed a clear understanding of how data and information systems support organizations, and how structured thinking can be used to improve performance and decision-making. This shaped my ability to approach data with a business-focused mindset that aims for clarity, accuracy, and value.
  <br>
  
- 🚀 Interests:
+ ## 🚀 Interests:
  
 📊 Data Analysis: extracting insights from data to support decisions
 📈 Data Science: exploring predictive models and data-driven solutions
