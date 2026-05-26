@@ -1,5 +1,6 @@
 # 💫 About Me:
-i want to be a data scientist and now i'm software developer with mern stack and nextjs dev and junior data analyst <br>
+I turn raw data into clear insights that reveal opportunities, guide smarter decisions, and create real business impact.
+ <br>
 
 
 ## 🌐 Socials:
