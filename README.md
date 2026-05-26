@@ -19,7 +19,9 @@ Through my studies, I developed a clear understanding of how data and informatio
 
 ## 🎯 Professional Mindset
 
-I am passionate about using data as a tool for improvement and growth. My focus is on transforming complex datasets into simple, actionable insights that help organizations optimize performance, solve problems, and make better strategic decisions. I am continuously developing my skills in Data Analysis and Data Science to deliver real business value through data.
+I am passionate about using data and technology as tools for improvement and growth. I focus on combining analytical thinking with a development background to better understand systems and deliver practical solutions.
+
+I believe in continuous learning, problem-solving, and building solutions that create real business value. My goal is to grow in both Data Analysis and Software Development while contributing to data-driven and technology-focused organizations.
 
 
 ## 📫 How to Reach Me:
