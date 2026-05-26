@@ -11,11 +11,11 @@ Through my studies, I developed a clear understanding of how data and informatio
  
  ## 🚀 Interests:
  
-📊 Data Analysis: extracting insights from data to support decisions
-📈 Data Science: exploring predictive models and data-driven solutions
-🤖 Machine Learning & AI: building intelligent systems to solve real-world problems
-⚡ Big Data Analytics: working with large-scale data concepts and processing approaches
-📉 Data Visualization: presenting insights in clear and impactful ways
+- 📊 Data Analysis: extracting insights from data to support decisions  
+- 📈 Data Science: exploring predictive models and data-driven solutions  
+- 🤖 Machine Learning & AI: building intelligent systems to solve real-world problems  
+- ⚡ Big Data Analytics: working with large-scale data concepts and processing approaches  
+- 📉 Data Visualization: presenting insights in clear and impactful ways  
 
 ## 🎯 Professional Mindset
 
