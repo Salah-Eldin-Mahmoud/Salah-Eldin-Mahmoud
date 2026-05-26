@@ -2,15 +2,27 @@
 
 # 👨‍💻 About Me
 
-I transform raw data into actionable insights that drive smarter decisions and real business impact.
+I’m Salah El-Din Mahmoud, a data-focused professional passionate about transforming raw data into actionable insights that drive smarter decisions and real business impact.
 
 🎓 I hold a degree in Management Information Systems (MIS) with Excellent distinction, which helped me build a strong foundation in business understanding, analytical thinking, and structured problem-solving.
 
 Through my studies, I developed a clear understanding of how data and information systems support organizations, and how structured thinking can be used to improve performance and decision-making. This shaped my ability to approach data with a business-focused mindset that aims for clarity, accuracy, and value.
  <br>
+ 
+ 🚀 Interests
+
+📊 Data Analysis – extracting insights from data to support decisions
+📈 Data Science – exploring predictive models and data-driven solutions
+🤖 Machine Learning & AI – building intelligent systems to solve real-world problems
+⚡ Big Data Analytics – working with large-scale data concepts and processing approaches
+📉 Data Visualization – presenting insights in clear and impactful ways
+
+🎯 Professional Mindset
+
+I am passionate about using data as a tool for improvement and growth. My focus is on transforming complex datasets into simple, actionable insights that help organizations optimize performance, solve problems, and make better strategic decisions. I am continuously developing my skills in Data Analysis and Data Science to deliver real business value through data.
 
 
-## 🌐 Socials:
+## 📫 How to Reach Me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/salaheddin.hamed) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/salah-eldin-hamed-840bb9225) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:salahemahmoud112@gmail.com) 
 
 # 💻 Tech Stack:
